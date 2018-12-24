@@ -298,7 +298,7 @@ export const GameModule = {
   },
   actions: {
     newGame(context, settings) {
-      settings = Vue.util.extend(defaultMapSettings, settings)
+      settings = Vue.util.extend(_.clone(defaultMapSettings), settings)
       // context.commit('reset')
       context.commit('setTime', settings.time)
       context.commit('setScore', 0)
