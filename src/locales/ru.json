@@ -1,0 +1,14 @@
+{
+  "en": "English",
+  "ru": "Русский",
+  "loading.loading": "Загрузка",
+  "map.time-left": "Время:",
+  "map.score": "Очки:",
+  "map.result": "0 баллов | {n} балл | {n} балла | {n} баллов",
+  "menu.play": "Играть",
+  "menu.menu": "Меню",
+  "menu.button.menu.font": "bold 36px URW Gothic",
+  "menu.continue": "Продолжить",
+  "menu.button.continue.font": "bold 28px URW Gothic",
+  "menu.game-name": "Три в ряд"
+}

@@ -1,0 +1,14 @@
+{
+  "en": "English",
+  "ru": "Русский",
+  "loading.loading": "Loading",
+  "map.time-left": "Time:",
+  "map.score": "Score:",
+  "map.result": "1 Point | {n} Points",
+  "menu.play": "Play",
+  "menu.menu": "Menu",
+  "menu.button.menu.font": "bold 36px URW Gothic",
+  "menu.continue": "Continue",
+  "menu.button.continue.font": "bold 36px URW Gothic",
+  "menu.game-name": "Three In A Line"
+}

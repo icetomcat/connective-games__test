@@ -1,0 +1,7 @@
+{
+  "menu-bg": "./BG_zaciatok.png",
+  "game-bg": "./IMG_background.png",
+  "jewels": "./jewels.png",
+  "game": "./game.png",
+  "menu-atlas": "./menu_atlas.png"
+}
